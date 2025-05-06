@@ -1,4 +1,4 @@
-## Applications of Discrete Cosine Transform(DCT)
+## Applications of Discrete Cosine Transform (DCT)
 **By: Yash Kataria**
 
 ---
